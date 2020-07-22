@@ -1,0 +1,71 @@
+body{
+ background-image: url(https://i.pinimg.com/originals/7a/33/71/7a3371eb553fd94ee4a70607054e6f5d.jpg);
+}
+
+#name-label {
+    font-size: 27px;
+}
+
+#email-label {
+    font-size: 27px;
+}
+#comment {
+    font-size: 27px;
+}
+
+#number-label {
+    font-size: 27px;
+}
+
+#radio {
+    font-size: 27px;
+}
+
+#sex {
+    font-size: 27px;
+}
+#dropdown {
+    font-size: 27px;
+}
+#name {
+    width: 25em;
+    height: 2em;
+}
+
+#email {
+    width: 25em;
+    height: 2em;
+}
+
+#number {
+    width: 5em;
+    height: 2em;
+}
+
+#survey-form {
+    background-color: rgb(10, 185, 216);
+    text-align: center;
+    width: 50%;
+}
+
+#title {
+    text-align: center;
+}
+
+
+#description {
+    font-size: 25px;
+}
+
+#number {
+    font-size: 20px;
+}
+
+#check {
+    font-size: 27px;
+}
+
+#submit {
+    width: 6em;
+    height: 3em;
+}
